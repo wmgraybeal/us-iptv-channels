@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="us.abc" tvg-name="ABC" group-title="News",ABC
+https://www.abc.com/
+#EXTINF:-1 tvg-id="us.cbs" tvg-name="CBS" group-title="News",CBS
+https://www.cbs.com/
+#EXTINF:-1 tvg-id="us.nbc" tvg-name="NBC" group-title="News",NBC
+https://www.nbc.com/
+#EXTINF:-1 tvg-id="us.fox" tvg-name="FOX" group-title="News",FOX
+https://www.fox.com/
+#EXTINF:-1 tvg-id="us.pbs" tvg-name="PBS" group-title="News",PBS
+https://www.pbs.org/live/
+#EXTINF:-1 tvg-id="us.cnn" tvg-name="CNN" group-title="News",CNN
+https://www.cnn.com/live
+#EXTINF:-1 tvg-id="us.msnbc" tvg-name="MSNBC" group-title="News",MSNBC
+https://www.msnbc.com/
+#EXTINF:-1 tvg-id="us.newsnation" tvg-name="NewsNation" group-title="News",NewsNation
+https://www.newsnationnow.com/live/
+#EXTINF:-1 tvg-id="us.espn" tvg-name="ESPN" group-title="Sports",ESPN
+https://www.espn.com/watch/
+#EXTINF:-1 tvg-id="us.espn2" tvg-name="ESPN2" group-title="Sports",ESPN2
+https://www.espn.com/watch/
+#EXTINF:-1 tvg-id="us.fs1" tvg-name="FS1" group-title="Sports",FS1
+https://www.foxsports.com/live
+#EXTINF:-1 tvg-id="us.nbcsports" tvg-name="NBC Sports" group-title="Sports",NBC Sports
+https://www.nbcsports.com/live
+#EXTINF:-1 tvg-id="us.nfl" tvg-name="NFL Network" group-title="Sports",NFL Network
+https://www.nfl.com/network
+#EXTINF:-1 tvg-id="us.tnt" tvg-name="TNT" group-title="Sports",TNT
+https://www.tntdrama.com/
+#EXTINF:-1 tvg-id="us.usa" tvg-name="USA Network" group-title="Entertainment",USA Network
+https://www.usanetwork.com/
+#EXTINF:-1 tvg-id="us.amc" tvg-name="AMC" group-title="Entertainment",AMC
+https://www.amc.com/
+#EXTINF:-1 tvg-id="us.fx" tvg-name="FX" group-title="Entertainment",FX
+https://www.fxnetworks.com/
+#EXTINF:-1 tvg-id="us.hgtv" tvg-name="HGTV" group-title="Home",HGTV
+https://www.hgtv.com/
+#EXTINF:-1 tvg-id="us.foodnetwork" tvg-name="Food Network" group-title="Food",Food Network
+https://www.foodnetwork.com/
+#EXTINF:-1 tvg-id="us.discovery" tvg-name="Discovery" group-title="Documentary",Discovery
+https://www.discovery.com/
+#EXTINF:-1 tvg-id="us.natgeo" tvg-name="National Geographic" group-title="Documentary",National Geographic
+https://www.natgeo.com/
+#EXTINF:-1 tvg-id="us.history" tvg-name="History" group-title="Documentary",History
+https://www.history.com/
+#EXTINF:-1 tvg-id="us.hallmark" tvg-name="Hallmark Channel" group-title="Entertainment",Hallmark Channel
+https://www.hallmarkchannel.com/
+#EXTINF:-1 tvg-id="us.cw" tvg-name="The CW" group-title="Entertainment",The CW
+https://www.cwtv.com/
+#EXTINF:-1 tvg-id="us.ion" tvg-name="ION" group-title="Entertainment",ION
+https://iontelevision.com/
+#EXTINF:-1 tvg-id="us.pbskids" tvg-name="PBS Kids" group-title="Kids",PBS Kids
+https://pbskids.org/live/
